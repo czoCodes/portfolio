@@ -1,0 +1,18 @@
+* {
+  width: 1080px;
+  background-color: lightgrey;
+  text-align: center;
+  margin: 0 auto;
+}
+body {
+  width: 1080px;
+  tex-align: center;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+pic-center {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
